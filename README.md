@@ -1,5 +1,4 @@
-# Chalenge1_Alura
-Chalenge sobre Modelado de Datos (Desafio 1)
+# Chalenge sobre Modelado de Datos (Desafio 1)
 La consigna me parece -que no está tan clara en el Desafío. Dice: "Dentro de tu Colab, deberás redactar un texto explicando a qué tienda debe vender el Sr. Juan"
 Como 'a que tienda' ? (me guié por la explicación de Wilfredo, espero no haber errado)
 
